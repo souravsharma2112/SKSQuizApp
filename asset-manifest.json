@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/SKSQuizApp/static/css/main.dca62fdd.chunk.css",
+    "main.js": "/SKSQuizApp/static/js/main.617f8c6b.chunk.js",
+    "main.js.map": "/SKSQuizApp/static/js/main.617f8c6b.chunk.js.map",
+    "runtime-main.js": "/SKSQuizApp/static/js/runtime-main.6576bd46.js",
+    "runtime-main.js.map": "/SKSQuizApp/static/js/runtime-main.6576bd46.js.map",
+    "static/js/2.279abf66.chunk.js": "/SKSQuizApp/static/js/2.279abf66.chunk.js",
+    "static/js/2.279abf66.chunk.js.map": "/SKSQuizApp/static/js/2.279abf66.chunk.js.map",
+    "static/js/3.0d08e70e.chunk.js": "/SKSQuizApp/static/js/3.0d08e70e.chunk.js",
+    "static/js/3.0d08e70e.chunk.js.map": "/SKSQuizApp/static/js/3.0d08e70e.chunk.js.map",
+    "static/js/4.dd31ee47.chunk.js": "/SKSQuizApp/static/js/4.dd31ee47.chunk.js",
+    "static/js/4.dd31ee47.chunk.js.map": "/SKSQuizApp/static/js/4.dd31ee47.chunk.js.map",
+    "index.html": "/SKSQuizApp/index.html",
+    "static/css/main.dca62fdd.chunk.css.map": "/SKSQuizApp/static/css/main.dca62fdd.chunk.css.map",
+    "static/js/2.279abf66.chunk.js.LICENSE.txt": "/SKSQuizApp/static/js/2.279abf66.chunk.js.LICENSE.txt",
+    "static/js/3.0d08e70e.chunk.js.LICENSE.txt": "/SKSQuizApp/static/js/3.0d08e70e.chunk.js.LICENSE.txt",
+    "static/media/Quizoption.css": "/SKSQuizApp/static/media/kbc_amitabh1-1019x573.c5f84087.webp",
+    "static/media/sounds_CorrectAns.0d60adea.wav": "/SKSQuizApp/static/media/sounds_CorrectAns.0d60adea.wav",
+    "static/media/sounds_KBC_Theme.44980355.wav": "/SKSQuizApp/static/media/sounds_KBC_Theme.44980355.wav",
+    "static/media/sounds_Thanks.694b8173.wav": "/SKSQuizApp/static/media/sounds_Thanks.694b8173.wav",
+    "static/media/sounds_WrongAns.71d51ab2.wav": "/SKSQuizApp/static/media/sounds_WrongAns.71d51ab2.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6576bd46.js",
+    "static/js/2.279abf66.chunk.js",
+    "static/css/main.dca62fdd.chunk.css",
+    "static/js/main.617f8c6b.chunk.js"
+  ]
+}
